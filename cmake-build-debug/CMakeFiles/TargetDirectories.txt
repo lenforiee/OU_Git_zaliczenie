@@ -1,0 +1,3 @@
+/mnt/c/Users/playv/CLionProjects/OU-zaliczenie-git/cmake-build-debug/CMakeFiles/OU_zaliczenie_git.dir
+/mnt/c/Users/playv/CLionProjects/OU-zaliczenie-git/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/playv/CLionProjects/OU-zaliczenie-git/cmake-build-debug/CMakeFiles/rebuild_cache.dir

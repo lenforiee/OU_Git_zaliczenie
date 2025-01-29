@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/OU_zaliczenie_git.dir/main.cpp.o -o OU_zaliczenie_git 
